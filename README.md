@@ -24,7 +24,7 @@ Una volta avviato usiamo il comando run per eseguire il programma. Per interromp
 Possiamo definire dei punti nel programma dove fermare l'esecuzione per analizzare lo stato delle variabili:
 
 * **Breakpoint** un punto nel codice dove fermarsi
-*  **Whatchpoint** Una variabile da monitorare- il prog di ferma quando la variabile cambia
+* **Whatchpoint** Una variabile da monitorare- il prog di ferma quando la variabile cambia
 
 ## GDB - Breackpoint
 Settare un breakpoint:
@@ -58,4 +58,3 @@ Una volta fermati su un breackpoint/watchpoint di solito si vuole continuare l'e
   - senza entrare nelle funzioni: **next**
   - entrando nelle chiamate di funzioni: **step**
 - Fino all'uscita dalla chiamata di funzione corrente: **finish**
-- 
