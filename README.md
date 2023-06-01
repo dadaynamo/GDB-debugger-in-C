@@ -60,4 +60,4 @@ Una volta fermati su un breackpoint/watchpoint di solito si vuole continuare l'e
 - Fino all'uscita dalla chiamata di funzione corrente: **finish**
 
 
-![Immagine di Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Immagine di Yaktocat](photo_6034965106204458057_y.jpg)
